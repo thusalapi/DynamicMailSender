@@ -1,3 +1,5 @@
+```
+
 POST - /api/email/config
 
 {
@@ -19,3 +21,5 @@ POST - /api/email/send
     "subject": "Test Email Subject",
     "body": "This is a test email body"
 }
+
+```
