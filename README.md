@@ -23,3 +23,4 @@ POST - /api/email/send
 }
 
 ```
+Make sure to create gmail app.
